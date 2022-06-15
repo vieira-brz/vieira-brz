@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></img>
 <img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></img>
 <img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></img>
+<img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></img>
+<img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-brz&langs_count=8)](https://github.com/vieira-brz/github-readme-stats)
