@@ -1,5 +1,14 @@
 ## Biography
-<p text-align='justify'>Typing my bio...</p>
+<p text-align='justify'>Atualmente trabalho como desenvolvedor júnior, possuo várias qualificações e experiências, dentre elas:</p>
+<ul>
+  <li>Versionamento de código com GIT</li>
+  <li>Criação de aplicações web utilizando variadas linguagens de programação</li>
+  <li>Instalação, configuração e manutenção de servidores</li>
+  <li>Migração de servidor fisíco para cloud</li>
+  <li>Manutenção de hardware</li>
+  <li>Formatar, configurar e instalar sistemas operacionais (TrueNAS, OMV, Linux, Windows, Raspbian, entre outros)</li>
+  <li>Facilidade verbal com línguas estrangeiras (espanhol e inglês)</li>
+</ul>
 
 <!--
 **vieira-brz/vieira-brz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
