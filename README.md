@@ -1,5 +1,5 @@
 ## Biography
-<p text-align='justify'>Atualmente trabalho como desenvolvedor júnior, possuo várias qualificações e experiências, dentre elas:</p>
+<p text-align='justify'>Atualmente trabalho como desenvolvedor júnior, possuindo qualificação e experiência nos tópicos e linguagens abaixo:</p>
 <ul>
   <li>Versionamento de código com GIT</li>
   <li>Criação de aplicações web utilizando variadas linguagens de programação</li>
