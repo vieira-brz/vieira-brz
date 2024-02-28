@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-brz&langs_count=8)](https://github.com/vieira-brz/github-readme-stats)
