@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Vinícius
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor Pleno, melhorando e implementando novos sistemas para controle de produção, análises estatísticas e gerenciamento de TI.
+- <p style="line-height:50px;">🔭 Atualmente estou trabalhando como Desenvolvedor Pleno, melhorando e implementando novos sistemas para controle de produção, análises estatísticas e gerenciamento de TI.</p>
+
 - 🌱 Aprendendo Machine Learning, Redes Neurais e Inteligência Artificial.
+
 - 😄 Pronomes: ele / dele / dev 
 
 <div> <br>
