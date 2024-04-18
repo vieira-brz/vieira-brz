@@ -1,48 +1,41 @@
-## Biography
-<p text-align='justify'>Atualmente trabalho como desenvolvedor júnior, possuindo qualificação e experiência nos tópicos e linguagens abaixo:</p>
-<ul>
-  <li>Versionamento de código com GIT</li>
-  <li>Criação de aplicações web utilizando variadas linguagens de programação</li>
-  <li>Instalação, configuração e manutenção de servidores</li>
-  <li>Migração de servidor fisíco para cloud</li>
-  <li>Manutenção de hardware</li>
-  <li>Formatar, configurar e instalar sistemas operacionais (TrueNAS, OMV, Linux, Windows, Raspbian, entre outros)</li>
-  <li>Facilidade verbal com línguas estrangeiras (espanhol e inglês)</li>
-</ul>
-
-<!--
-**vieira-brz/vieira-brz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Olá! Eu sou o Vinícius
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## Skills
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></img>
-<img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-<img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<div> <br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vieira-brz&show_icons=true&theme=dark" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-brz&layout=compact&langs_count=16&theme=dark" />
+</div>
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-brz&langs_count=8)](https://github.com/vieira-brz/github-readme-stats)
+<div style="display: flex;"> <br>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" /> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />             
+</div>
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vieira-brz&show_icons=true&theme=dark)
+##
+
+<div>
+  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</div>
+
+![Snake animation](https://github.com/vieira-brz/vieira-brz/blob/output/github-contribution-grid-snake.svg)
+
