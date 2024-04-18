@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Vinícius
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Pleno, melhorando e implementando novos sistemas para controle de produção, análises estatísticas e gerenciamento de TI.
+- 🌱 Aprendendo Machine Learning, Redes Neurais e Inteligência Artificial.
+- 😄 Pronomes: ele / dele / dev 
 
 <div> <br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vieira-brz&show_icons=true&theme=dark" />
