@@ -49,5 +49,3 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-![snake gif](https://github.com/vieira-brz/vieira-brz/blob/output/github-contribution-grid-snake.gif)
