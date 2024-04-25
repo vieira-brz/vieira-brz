@@ -8,7 +8,7 @@
 
 <div> <br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vieira-brz&show_icons=true&theme=dark" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-brz&layout=compact&langs_count=16&theme=dark" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-brz&layout=compact&langs_count=16&hide=css,html,jupyter%20notebook&theme=dark" />
 </div>
 
 <div style="display: flex;"> <br>
