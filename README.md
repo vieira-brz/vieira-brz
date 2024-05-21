@@ -67,6 +67,7 @@
   <a href="mailto:vieirabraz2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://web.whatsapp.com/send?phone=5541988417602" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vinicius-vieira-braz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/viniciusbraz03" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20B2AA?style=for-the-badge"></a>
 </div>
 
 <picture>
