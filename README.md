@@ -2,7 +2,7 @@
 
 - 👨‍💻 Creator of [Solutiva Tech](https://solutiva-tech.vercel.app/).
 
-- <p style="line-height:50px;">🔭 I'm currently working as a Full-Stack Developer, improving and implementing new systems for production control, statistical analysis, and IT management.</p>
+- <p style="line-height:50px;">🔭 I currently work as a Python Developer, improving and implementing new control systems, statistical analysis and IT management.</p>
 
 - 🌱 Learning Machine Learning and applying it to full-stack development.
 
