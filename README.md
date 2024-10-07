@@ -1,6 +1,6 @@
 ## Hello Visitor! I'm Vinícius
 
-- 👨‍💻 Creator of [Solutiva Tech](https://solutiva-tech.vercel.app/).
+- 👨‍💻 Creator of [WhiteX](https://whitexcompany.vercel.app/).
 
 - <p style="line-height:50px;">🔭 I currently work as a Python Developer, improving and implementing new control systems, statistical analysis and IT management.</p>
 
